@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 fltk = { version = "1.2", features = ["fltk-bundled"] }
 winapi = { version = "0.3.9", features = ["winuser"] }
+rand = "0.8"
